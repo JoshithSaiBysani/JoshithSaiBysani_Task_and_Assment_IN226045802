@@ -1,0 +1,5 @@
+chromadb==1.5.8
+langgraph==1.1.9
+pypdf==4.2.0
+reportlab==4.1.0
+
